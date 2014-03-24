@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CFF0B439-9E70-49F6-9E7D-6530EE8DCD4E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ImageFilter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BC578C14-9A0B-4B84-AA55-29A261D59103</key>
+		<string>https://github.com/chiennguyen/ImageFilter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ImageFilter.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BC578C14-9A0B-4B84-AA55-29A261D59103</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chiennguyen/ImageFilter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BC578C14-9A0B-4B84-AA55-29A261D59103</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BC578C14-9A0B-4B84-AA55-29A261D59103</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ImageFilter</string>
+		</dict>
+	</array>
+</dict>
+</plist>
